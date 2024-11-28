@@ -1,0 +1,2 @@
+# maccxed
+WINDOWS 10 BATCH VIRUS
