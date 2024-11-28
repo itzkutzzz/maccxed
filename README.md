@@ -2,7 +2,7 @@
 WINDOWS 10 BATCH VIRUS
 
 
-requirements: WINDOWS 10
+requirements: WINDOWS 10, COMMAND PROMPT, AND CORRECT BAT/BATCH FILE DEFAULT APPLICATION SET (Settings > Default Apps > Choose default apps by file type > .bat > Command Prompt)
 
 # HEY!
 I am not responsible for any damages caused to your computer, including boot damage, or startup registries that force the batch file to open right on startup!
